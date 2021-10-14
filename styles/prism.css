@@ -1,0 +1,17 @@
+.token.tag,
+.token.selector {
+  color: #e06c75;
+}
+
+.token.punctuation {
+  color: #fafafa;
+}
+
+.token.attr-name {
+  color: #d19a66;
+}
+
+.token.attr-equals,
+.token.property {
+  color: #98c379;
+}
